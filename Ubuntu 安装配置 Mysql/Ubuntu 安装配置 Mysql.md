@@ -16,7 +16,7 @@ sudo apt install mysql-server
 
 出现如下提示，输入 `Y` 继续
 
-![image-20230527121654725](image/image-20230527121654725.png)
+![./image-20230527121654725](image/image-20230527121654725.png)
 
 
 
